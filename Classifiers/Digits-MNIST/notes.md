@@ -1,0 +1,2 @@
+network is overcomplicated, converges immediately. Still pretty cheap compute-cost if run only 2-3 epochs..
+I dont split train into train and val, which is bad practice, but in this very simple model it doesnt really matter.
